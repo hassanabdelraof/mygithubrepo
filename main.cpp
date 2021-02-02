@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 int main () {
-	std::cout<<"Test"<<std::endl;
-	std::cout<<"Hello World"<<std::end;
+	cout<<"Test"<<endl;
+	cout<<"Hello World"<<end;
 }
